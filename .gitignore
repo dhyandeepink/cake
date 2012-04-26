@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /app/Config
 /app/tmp
 /lib/Cake/Console/Templates/skel/tmp/
@@ -7,3 +8,10 @@
 /dist
 .DS_Store
 tags
+=======
+tmp/*
+config/database.php
+app/tmp/*
+app/config/database.php
+!empty
+>>>>>>> 786a68b324b3fdb3569c3a7b507b6116895da69e
