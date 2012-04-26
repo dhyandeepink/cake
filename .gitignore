@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /app/Config
 /app/tmp
 /lib/Cake/Console/Templates/skel/tmp/
@@ -12,13 +13,19 @@ tags
 =======
 =======
 >>>>>>> 2e87b30e5391150ac3b5d0fb55c573993c6750fb
+=======
+>>>>>>> 5f4b14106e48f1f430552c369ba3aa1bdd5d2295
 tmp/*
 config/database.php
 app/tmp/*
 app/config/database.php
+<<<<<<< HEAD
 <<<<<<< HEAD
 !empty
 >>>>>>> 786a68b324b3fdb3569c3a7b507b6116895da69e
 =======
 !empty
 >>>>>>> 2e87b30e5391150ac3b5d0fb55c573993c6750fb
+=======
+!empty
+>>>>>>> 5f4b14106e48f1f430552c369ba3aa1bdd5d2295
